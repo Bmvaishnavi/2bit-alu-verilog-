@@ -3,12 +3,12 @@
 2-bit ALU Design using Verilog with ModelSim Simulation
 # 2-bit ALU Design using Verilog
 
-## 📌 Project Objective
+## Project Objective
 Design and simulate a 2-bit Arithmetic Logic Unit (ALU) that performs arithmetic and logical operations.
 
 ---
 
-## ⚙️ Operations Supported
+## Operations Supported
 
 | ALU_Sel | Operation |
 |----------|------------|
@@ -20,10 +20,10 @@ Design and simulate a 2-bit Arithmetic Logic Unit (ALU) that performs arithmetic
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Verilog HDL
 - ModelSim (Simulation)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
